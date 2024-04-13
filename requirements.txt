@@ -1,0 +1,1 @@
+inference-gpu==0.9.20
