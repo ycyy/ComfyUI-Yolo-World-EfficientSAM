@@ -1,1 +1,2 @@
-inference-gpu==0.9.22
+inference==0.14.1
+inference-gpu==0.14.1
